@@ -3,7 +3,7 @@
 blur_detector.py
 Created on Thu Nov  1 15:29:59 2018
 
-@author: Kiran
+@author: Kiran Abbadasari
 Description: finds if the image contain blur or not
             it uses laplacian of the image, i.e focus measure of image
             based on threshold of the measure it categorizes blurry or not
