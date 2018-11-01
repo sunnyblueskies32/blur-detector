@@ -17,5 +17,6 @@ blur_detector.py
         : tested it with anaconda and spyder
         : if testing with different distributions use below installations
         :go over below for opencv 3 with python
+        pip install opencv-python
         https://solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
         https://www.scivision.co/install-opencv-python-windows/
