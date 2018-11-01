@@ -13,6 +13,7 @@ blur_detector.py
 @Returns: 1 if the image contain blur
          0 if the image does not contain blur
 @Credits: Pyimagesearch.com for tutorials and code
+
 @pre-requesites: python 3.6.6 or python 2.7 opencv 3
         : tested it with anaconda and spyder
         : 
