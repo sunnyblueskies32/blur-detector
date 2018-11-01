@@ -13,10 +13,12 @@ blur_detector.py
 @Returns: 1 if the image contain blur
          0 if the image does not contain blur
 @Credits: Pyimagesearch.com for tutorials and code
-@pre-requesites: python 3.6.6, opencv 3
+@pre-requesites: python 3.6.6 or python 2.7 opencv 3
         : tested it with anaconda and spyder
-        : if testing with different distributions use below installations
-        :go over below for opencv 3 with python
+        : 
+        :need below for opencv 3 with python
         pip install opencv-python
+         pip install pathlib
+        
         https://solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
         https://www.scivision.co/install-opencv-python-windows/
