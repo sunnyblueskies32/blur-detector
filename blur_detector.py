@@ -15,8 +15,13 @@ Returns: 1 if the image contain blur
 Credits: Pyimagesearch.com for tutorials and code
 pre-requesites: python 3.6.6, opencv 3
         : tested it with anaconda and spyder
+	: need 
+	:      pip install pathlib
+	:	pip install opencv-python
+	:
         : if testing with different distributions use below installations
         :go over below for opencv 3 with python
+	
         https://solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/
         https://www.scivision.co/install-opencv-python-windows/
 """
